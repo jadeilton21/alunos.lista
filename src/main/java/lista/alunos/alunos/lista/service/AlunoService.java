@@ -14,8 +14,8 @@ public class AlunoService {
     private final AlunoCliente alunoCliente;
 
 
-    public AlunoService(AlunoService alunoService) {
-        this.alunoService = alunoService;
+    public AlunoService(AlunoCliente alunoCliente) {
+        this.alunoCliente = alunoCliente;
     }
 
 
