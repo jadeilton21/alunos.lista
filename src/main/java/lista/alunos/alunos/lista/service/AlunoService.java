@@ -6,8 +6,10 @@ import org.springframework.stereotype.Service;
 public class AlunoService {
 
 
+    private final AlunoService alunoService;
 
 
-
-
+    public AlunoService(AlunoService alunoService) {
+        this.alunoService = alunoService;
+    }
 }
