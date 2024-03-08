@@ -25,5 +25,6 @@ public class AlunoController {
 
     public ResponseEntity<List<Aluno>> getAlunos(){
         List<Aluno> alunos = this.alunoService.getAlunosFromLibriary();
+        ResponseEntity.ok().body(alunos);
     }
 }
