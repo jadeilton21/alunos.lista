@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 public class Aluno {
 
 
-
     private String nome;
     private String cpf;
     private String cidade;
