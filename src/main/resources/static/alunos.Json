@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "João da Silva",
+    "cpf": "123.456.789-00",
+    "cidade": "São Paulo",
+    "rua": "Rua das Flores",
+    "bairro": "Centro",
+    "nome_da_mae": "Maria da Silva",
+    "nome_do_pai": "José da Silva"
+  },
+  {
+    "nome": "Ana Souza",
+    "cpf": "987.654.321-00",
+    "cidade": "Rio de Janeiro",
+    "rua": "Avenida das Palmeiras",
+    "bairro": "Copacabana",
+    "nome_da_mae": "Carla Souza",
+    "nome_do_pai": "Pedro Souza"
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "cpf": "456.789.123-00",
+    "cidade": "Belo Horizonte",
+    "rua": "Rua dos Ipês",
+    "bairro": "Savassi",
+    "nome_da_mae": "Ana Oliveira",
+    "nome_do_pai": "Paulo Oliveira"
+  },
+  {
+    "nome": "Juliana Santos",
+    "cpf": "789.123.456-00",
+    "cidade": "Brasília",
+    "rua": "Quadra 302",
+    "bairro": "Asa Sul",
+    "nome_da_mae": "Fernanda Santos",
+    "nome_do_pai": "Rafael Santos"
+  },
+  {
+    "nome": "Mariana Costa",
+    "cpf": "321.654.987-00",
+    "cidade": "Salvador",
+    "rua": "Avenida Beira Mar",
+    "bairro": "Barra",
+    "nome_da_mae": "Patrícia Costa",
+    "nome_do_pai": "André Costa"
+  }
+]
