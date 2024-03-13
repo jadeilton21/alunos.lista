@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;
 
-@FeignClient(name = "aluno-api", url = "")
+@FeignClient(name = "aluno-api", url = "https://alunos-exemplos-api.s3.us-east-2.amazonaws.com/alunos.Json")
 public interface AlunoCliente {
 
 
